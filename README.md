@@ -62,6 +62,11 @@ To segment satellite or aerial images into meaningful classes using deep learnin
 - `IntroduceDataLoaders.ipynb` – Efficient data loading
 - `VGG16_UNET_BEST.ipynb` – Final model with best performance
 
+## 🚀 New Improvements
+
+- Added a new training script using **ResNet50 as encoder** with fine-tuning.
+- Implemented **class weighting** to address class imbalance across 8 segmentation classes.
+- Achieved **91% validation accuracy** and improved per-class performance using weighted loss functions.
 ---
 
 ## Author
