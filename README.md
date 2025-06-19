@@ -37,7 +37,7 @@ To segment satellite or aerial images into meaningful classes using deep learnin
 - Noisy augmentations
 - Small batch size handling
 
-### 🛠In Progress
+### In Progress
 - Class imbalance (8-class segmentation with underrepresented categories)
 - Expanding dataset for better generalization
 - Exploring loss functions like Dice and Focal Loss
